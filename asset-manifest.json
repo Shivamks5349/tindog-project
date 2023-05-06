@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tindog-project/static/js/main.b4b6b8f3.js",
+    "index.html": "/tindog-project/index.html",
+    "main.b4b6b8f3.js.map": "/tindog-project/static/js/main.b4b6b8f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4b6b8f3.js"
+  ]
+}
